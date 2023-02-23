@@ -33,4 +33,8 @@ https://twitter.com/StrangeBee
 
 https://www.misp-project.org/
 
+https://ncorwiki.buffalo.edu/index.php/Ontology_for_Intelligence,_Defense_and_Security
+
+https://d3fend.mitre.org/resources/
+
 
