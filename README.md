@@ -37,4 +37,6 @@ https://ncorwiki.buffalo.edu/index.php/Ontology_for_Intelligence,_Defense_and_Se
 
 https://d3fend.mitre.org/resources/
 
+https://github.com/mikeroyal/Open-Source-Security-Guide
 
+https://github.com/sbilly/awesome-security
